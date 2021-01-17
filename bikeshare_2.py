@@ -1,5 +1,4 @@
 import time
-import numpy as np
 import module_filter as filter
 import module_load_data as data
 
