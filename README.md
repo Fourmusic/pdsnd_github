@@ -21,6 +21,6 @@ Sub Modules:
 https://udacity.com/
 
 Used data for the analyzation could be found on:
- - Chicago             https://www.divvybikes.com/system-data
- - New York City       https://www.citibikenyc.com/system-data
- - Washington          https://www.capitalbikeshare.com/system-data
+ - Chicago https://www.divvybikes.com/system-data
+ - New York City https://www.citibikenyc.com/system-data
+ - Washington https://www.capitalbikeshare.com/system-data
