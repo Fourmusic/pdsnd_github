@@ -9,10 +9,13 @@ The project contains a python program which was developed in a Data Science Nano
 With this program it is possible to analyse the bikeshare data (see above mentioned links) and get some KPIs of the usage and differences between the cities.
 
 ### Files used
-- Main file            bikeshare_2.py
-- Filter Module        module_filter.py
-- Data Connection      module_load_data.py
-  Module    
+Main Program
+- Main file: bikeshare_2.py
+
+Sub Modules:
+- Sub Filter Module: module_filter.py
+- Data Connection Module : module_load_data.py
+
 
 ### Credits
 https://udacity.com/
