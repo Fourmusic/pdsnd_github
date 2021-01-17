@@ -1,15 +1,21 @@
 ### Date created
-Include the date you created this project and README file.
+15.01.2021
 
 ### Project Title
-Replace the Project Title
+Udacity Nanodegree | Project 'Bikeshare Python'
 
 ### Description
-Describe what your project is about and what it does
+The project contains a python program which was developed in a Data Science Nanodegree Course from Udacity.
+With this program it is possible to analyse the bikeshare data (see above mentioned links) and get some KPIs of the usage and differences between the cities.
 
 ### Files used
-Include the files used
+bikeshare_2.py
+module_filter.py
+module_load_data.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://udacity.com/
 
+Chicago       https://www.divvybikes.com/system-data
+New York City https://www.citibikenyc.com/system-data
+Washington    https://www.capitalbikeshare.com/system-data
