@@ -161,7 +161,7 @@ def user_stats(df, filter_mode):
               "\n{}'{}'".format(pretty_print("Most recent Year of Birth"), recent_birth),
               "\n{}'{}' with '{}'".format(pretty_print("Most common Year of Birth"), common_birth, common_birth_count))
     else:
-        print("{}'{}'".format(pretty_print("Year of Birth"),"no Birth Data available"))
+        print("{}'{}'".format(pretty_print("Year of Birth"),"no Year of Birth Data available"))
 
     print("{}'{}'".format(pretty_print("Filter Mode"), filter_dict[filter_mode]))
     print("{}'%s' seconds.\n".format(pretty_print("This took")) % (time.time() - start_time))
